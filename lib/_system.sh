@@ -29,7 +29,7 @@ EOF
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código Atendechat...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Fazendo download do código TalkCorp...${GRAY_LIGHT}"
   printf "\n\n"
 
 
@@ -49,7 +49,7 @@ EOF
 #######################################
 system_update() {
   print_banner
-  printf "${WHITE} 💻 Vamos atualizar o sistema do Atendechat...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos atualizar o sistema do TalkCorp...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -71,7 +71,7 @@ EOF
 #######################################
 deletar_tudo() {
   print_banner
-  printf "${WHITE} 💻 Vamos deletar o Atendechat...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos deletar o TalkCorp...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -117,7 +117,7 @@ EOF
 #######################################
 configurar_bloqueio() {
   print_banner
-  printf "${WHITE} 💻 Vamos bloquear o Atendechat...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos bloquear o TalkCorp...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -144,7 +144,7 @@ EOF
 #######################################
 configurar_desbloqueio() {
   print_banner
-  printf "${WHITE} 💻 Vamos Desbloquear o Atendechat...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos Desbloquear o TalkCorp...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -170,7 +170,7 @@ EOF
 #######################################
 configurar_dominio() {
   print_banner
-  printf "${WHITE} 💻 Vamos Alterar os Dominios do Atendechat...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos Alterar os Dominios do TalkCorp...${GRAY_LIGHT}"
   printf "\n\n"
 
 sleep 2

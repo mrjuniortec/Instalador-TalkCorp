@@ -201,14 +201,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Atendechat, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador TalkCorp, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar Atendechat\n"
-  printf "   [1] Atualizar Atendechat\n"
-  printf "   [2] Deletar Atendechat\n"
-  printf "   [3] Bloquear Atendechat\n"
-  printf "   [4] Desbloquear Atendechat\n"
-  printf "   [5] Alter. dominio Atendechat\n"
+  printf "   [0] Instalar TalkCorp\n"
+  printf "   [1] Atualizar TalkCorp\n"
+  printf "   [2] Deletar TalkCorp\n"
+  printf "   [3] Bloquear TalkCorp\n"
+  printf "   [4] Desbloquear TalkCorp\n"
+  printf "   [5] Alter. dominio TalkCorp\n"
   printf "\n"
   read -p "> " option
 
